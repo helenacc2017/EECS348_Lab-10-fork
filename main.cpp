@@ -2,6 +2,7 @@
 #include <string>
 #include "calculator.hpp"
 
+// Program main entry point
 int main(int argc, char *argv[]) {
     std::string filename;
 
